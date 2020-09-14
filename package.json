@@ -7,9 +7,17 @@
     "start": "node server.js",
     "devStart": "nodemon server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabijusKielius/NodeJSProject.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabijusKielius/NodeJSProject/issues"
+  },
+  "homepage": "https://github.com/GabijusKielius/NodeJSProject#readme",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
